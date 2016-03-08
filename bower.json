@@ -15,6 +15,7 @@
   "dependencies": {
     "riot": "~2.3.16",
     "riotcontrol": "*",
-    "sass-bootstrap": "~3.0.2"
+    "sass-bootstrap": "~3.0.2",
+    "jquery": "^2.2.1"
   }
 }
