@@ -3,8 +3,9 @@ My Small Starter Kit with RiotJs, Coffeescript, Sass and Gulp
 
 
 # setup 
-npm install
-bower install
+`npm install`
+
+`bower install`
 
 # build 
 
