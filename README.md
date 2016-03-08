@@ -9,5 +9,6 @@ My Small Starter Kit with RiotJs, Coffeescript, Sass and Gulp
 
 # build 
 
-gulp 
+`gulp` or `gulp watch`
+
  
